@@ -38,6 +38,7 @@
     "html-webpack-plugin": "^2 || ^3 || ^4"
   },
   "devDependencies": {
+    "@undefinedlabs/scope-agent": "0.0.0-experimental-3",
     "babel-jest": "^24.9.0",
     "codecov": "^3.6.1",
     "eslint": "^6.6.0",
